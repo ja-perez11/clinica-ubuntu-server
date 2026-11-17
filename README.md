@@ -1,7 +1,7 @@
 # Proyecto Integrador: Servidor para el Centro de Terapias Integrales Bienestar
 
 **Materia:** Sistemas Operativos  
-**Integrante / Administrador:** Jhonatan (`user`)  
+**Integrante / Administrador:** Jhonatan Perez, Katherine Galvis , Karina Garcia (`user`)  
 **Sistema Operativo:** Ubuntu Server 24.04.5 LTS  
 **Conexión remota:** SSH (`ssh -p 2222 user@127.0.0.1`)
 
